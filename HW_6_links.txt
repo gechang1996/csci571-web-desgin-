@@ -1,0 +1,11 @@
+fontend could be accessed by: 
+
+https://csci571-changge-hw6.azurewebsites.net/index.html
+
+
+flask link examples:
+https://csci571-changge-hw6.azurewebsites.net/trending
+https://csci571-changge-hw6.azurewebsites.net/TV
+https://csci571-changge-hw6.azurewebsites.net/search_movie/?search=doctor
+....etc
+
